@@ -4,7 +4,7 @@ Proyecto 2 del ramo Sistemas Operativos y Redes, 1er Semestre 2023, Universidad 
 # Tema
 Crear una solución a una problemática de la bionformática usando los conocimientos adquiridos en el semestre.
 
-La solución planteada fue: blah blah usando blah blah blah.
+La solución planteada fue un programa ligero y comprensible llamado BioSequence Analyzer para el análisis de secuencias biológicas mediante el uso de Biopython y algoritmos sin necesidad de usar bibliotecas especializadas en el área.
 
 # Integrantes
 - Matías Fonseca.
